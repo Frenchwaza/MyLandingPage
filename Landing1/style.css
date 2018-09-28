@@ -1,0 +1,93 @@
+/* style.css */
+body{
+  text-align: center;
+  background: rgb(240,240,240);
+  color: rgb(20,20,20);
+  font-weight: : 25px;
+  font-family: 'Roboto Mono', monospace;
+  margin: 0px 
+}
+h1{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #B1D1C5 ;
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #BAE5D5;
+  font-weight: lighter;
+  font-size: 18px;
+  
+   
+}
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 18px;
+}
+a {
+  text-align: center;
+  color: lightGrey;
+  font-size: 18px;
+}
+a:hover {
+  text-align: center;
+  text-decoration: none;
+  color: #7971EA;
+
+}
+
+/*custom design */
+#banner{
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1537895445884-adb79d9f913f?ixlib=rb-0.3.5&s=e0405bac45245e9dcd7493dbfa0226be&auto=format&fit=crop&w=1000&q=60);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+}
+#banner h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  text-align: center;
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer {
+  text-align: center;
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  font-size: 20px;
+}
+
+#footer_a {
+  color: lightgrey;
+  font-size: 20px; 
+}
+
+#link-wagon {
+  text-align: center;
+  color: lightgrey;
+  background: rgb(30, 30, 30);
+}
+
+}
+.card{
+  text-align: center;
+  padding: 50px;
+  font-weight: lighter;
+}
+
